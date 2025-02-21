@@ -38,5 +38,5 @@ Use uma estrutura organizada, com seções claramente definidas e utilize lingua
 
 
 <h4 align="center">
-Em Construção : rocket:
+Em Construção :rocket:
 </h4>
