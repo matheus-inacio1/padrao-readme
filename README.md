@@ -12,12 +12,6 @@
 <h6>Titulo HTML com menor fonte</h6> -->
 
 <p id="descricaoProjeto"></p>
-<p id="statusProjeto"></p>
-<p id="Funcionalidades"></p>
-<p id="PreRequisitos"></p>
-<p id="ExecultarProjeto"></p>
-<p id="MapaProjeto"></p>
-<p id="Tecnologias"></p>
 
 
 ## Descrição do projeto
@@ -45,7 +39,6 @@ Use uma estrutura organizada, com seções claramente definidas e utilize lingua
 </ul>
 
 <ul>
-<li><a href="#PreRequisitos">Pré-Requisitos</a></li>
 </ul>
 
 <ul>
@@ -60,6 +53,8 @@ Use uma estrutura organizada, com seções claramente definidas e utilize lingua
 <li><a href="#Tecnologias">Tecnologias</a></li>
 </ul>
 
+<p id="statusProjeto"></p>
+
 ## Status do projeto
 
 
@@ -68,16 +63,22 @@ Use uma estrutura organizada, com seções claramente definidas e utilize lingua
 Em Construção :rocket:
 </h3>
 
+<p id="Funcionalidades"></p>
+
 ## Funcionalidades
 
 - [x] README com Maarkdown.
 - [x]README com HTML.
 - [ ]Badge.
 
+<p id="PreRequisitos"></p>
+
 ## Pré-Requisitos
 
 - [VSCode](https://code.visualstudio.com/)
 - [GIT](https://git-scm.com/)
+
+<p id="ExecultarProjeto"></p>
 
 ## Execultar o Projeto
 
@@ -94,6 +95,8 @@ code .
 
 ```
 
+<p id="MapaProjeto"></p>
+
 ## Mapa do Projeto
 ```bash
 +---img         // Contém as imagens do README
@@ -104,6 +107,8 @@ code .
     +---temp-1  // Pasta temp para gerar tree
     +---temp-2  // Pasta temp para gerar tree
 ```
+
+<p id="Tecnologias"></p>
 
 ## Tecnologias
 
