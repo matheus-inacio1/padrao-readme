@@ -13,6 +13,12 @@
 
 <p id="descricaoProjeto"></p>
 <p id="statusProjeto"></p>
+<p id="Funcionalidades"></p>
+<p id="PreRequisitos"></p>
+<p id="ExecultarProjeto"></p>
+<p id="MapaProjeto"></p>
+<p id="Tecnologias"></p>
+
 
 ## Descrição do projeto
 
@@ -34,9 +40,72 @@ Use uma estrutura organizada, com seções claramente definidas e utilize lingua
 <li><a href="#status-do-projeto">Status do Projeto</a></li>
 </ul>
 
+<ul>
+<li><a href="#Funcionalidades">Funcionalidades</a></li>
+</ul>
+
+<ul>
+<li><a href="#PreRequisitos">Pré-Requisitos</a></li>
+</ul>
+
+<ul>
+<li><a href="#ExecultarProjeto">Execultar o Projeto</a></li>
+</ul>
+
+<ul>
+<li><a href="#MapaProjeto">Mapa do Projeto</a></li>
+</ul>
+
+<ul>
+<li><a href="#Tecnologias">Tecnologias</a></li>
+</ul>
+
 ## Status do projeto
+
 
 
 <h3 align="center">
 Em Construção :rocket:
 </h3>
+
+## Funcionalidades
+
+- [x] README com Maarkdown.
+- [x]README com HTML.
+- [ ]Badge.
+
+## Pré-Requisitos
+
+- [VSCode](https://code.visualstudio.com/)
+- [GIT](https://git-scm.com/)
+
+## Execultar o Projeto
+
+```bash
+
+# Clone do repositório
+git clone <path do repositório>
+
+# Acessar a pasta do projeto
+cd meu-projeto
+
+# Abrir o VSCode no <path do repositório>
+code .
+
+```
+
+## Mapa do Projeto
+```bash
++---img         // Contém as imagens do README
++---temp        // Pasta temp para gerar tree
+ª   +---temp-1  // Pasta temp para gerar tree
+ª   +---temp-2  // Pasta temp para gerar tree
++---temp copy   // Pasta temp para gerar tree
+    +---temp-1  // Pasta temp para gerar tree
+    +---temp-2  // Pasta temp para gerar tree
+```
+
+## Tecnologias
+
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [MARKDOWN](https://www.markdownguide.org/)
